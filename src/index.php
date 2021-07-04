@@ -15,4 +15,6 @@ echo "Hello, World from Docker! <br>";
 echo 'session.save_handler = ' . ini_get('session.save_handler') . "\n";
 echo $_SESSION["counter"];
 
+
+
 ?>
